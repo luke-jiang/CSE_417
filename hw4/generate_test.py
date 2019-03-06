@@ -1,3 +1,12 @@
+# CSE 417
+# HW4
+# Luke Jiang
+# 8/2/2019
+
+# This program generates two types of input points:
+# 1. points are uniformly distributed over unit square
+# 2. points are uniformly distributed on line (0.0, 1.0)
+
 
 import numpy as np
 
@@ -23,5 +32,3 @@ def lineseg(filename, n):
 if __name__ == "__main__":
     #uniform("test_grad.txt", 20)
     lineseg("test_line.txt", 50000)
-
-

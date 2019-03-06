@@ -1,3 +1,10 @@
+# CSE 417
+# HW4
+# Luke Jiang
+# 8/2/2019
+
+# plot stress test result.
+
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import stats
