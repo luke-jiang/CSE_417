@@ -1,4 +1,10 @@
 
+# CSE 417
+# HW2
+# Luke Jiang (1560831)
+# 22/01/2019
+
+# plot the result 
 
 import numpy as np
 import matplotlib.pyplot as plt
